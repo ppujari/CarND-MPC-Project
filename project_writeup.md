@@ -66,3 +66,5 @@ These (x,y) points are displayed in reference to the vehicle's coordinate system
 The result of running the MPC model was that the vehicle successfully drove a lap around the track. The following image depict the result. The MPC trajectory path is displayed in green, and the polynomial fitted reference path in yellow.
 
 [![Displaying the MPC trajectory path in green, and the polynomial fitted reference path in yellow.](https://github.com/ppujari/CarND-MPC-Project/blob/master/images/CarND-MPC-Project.png)]
+Please see, [video recording of the MPC project run](https://youtu.be/KIwvjnK7Mns)
+
